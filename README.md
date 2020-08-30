@@ -2,9 +2,9 @@
 
 ## I'm a Husband, Developer, and Coffee-drinker.
 
-- 🔭 I'm a developer at [BlueSwitch](https://blueswitch.com).
-- 🛠 I work with Node.js and React on my personal projects.
-- 📱 I’m currently learning iOS/Swift.
+- 🔭 &nbsp;I'm a developer at [BlueSwitch](https://blueswitch.com).
+- 🛠 &nbsp;I work with Node.js and React on my personal projects.
+- 📱 &nbsp;I’m currently learning iOS/Swift.
 
 ### Connect with me:
 
