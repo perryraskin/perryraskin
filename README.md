@@ -1,7 +1,5 @@
 ### Hi there, I'm Perry Raskin 👋
 
-## I'm a Husband, Developer, and Coffee-drinker.
-
 - 🔭 &nbsp;I'm a developer at [BlueSwitch](https://blueswitch.com).
 - 🛠 &nbsp;I work with Node.js and React on my personal projects.
 - 📱 &nbsp;I’m currently learning iOS/Swift.
