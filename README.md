@@ -1,6 +1,6 @@
 ### Hi there, I'm Perry Raskin 👋
 
-- 🔭 &nbsp;I'm a developer at [Citi](https://citi.com).
+- 🏢 &nbsp;Web & Integrations at [Coverdash](https://www.coverdash.com).
 - 🛠 &nbsp;I work with Node.js and React on my personal projects.
 
 ### Connect with me:
